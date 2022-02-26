@@ -1,5 +1,5 @@
-<img align ="right" src="https://komarev.com/ghpvc/?username=SoykanKAMAL&label=Profile%20views&color=0e75b6&style=flat" alt="basemax">
-<h1 align="center">Hi 👋, I'm Soykan</h1>
+<img align ="right" src="https://komarev.com/ghpvc/?username=orhunozkaya17&label=Profile%20views&color=0e75b6&style=flat" alt="basemax">
+<h1 align="center">Hi 👋, I'm Orhun</h1>
 
 Unity Developer, Gaming Enthusiast, Loves Talking About #GameDevelopment and #VideoGames
 [![-----------------------------------------------------](
@@ -25,7 +25,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 <h3>Ask Me Anything Related To Game Development & Programming :</h3>
 
-soykangokselkamal@gmail.com
+orhuno1236@gmail.com
 
 [![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
@@ -63,7 +63,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 <h2>Stats:</h2>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=soykanKAMAL&show_icons=true&locale=en" alt="soykanKAMAL">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=orhunozkaya17&show_icons=true&locale=en" alt="orhunozkaya17">
 
 ------
 
