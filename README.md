@@ -20,7 +20,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 :five: Have mastered many areas of game development like Gameplay Development and Game Mechanics Development.<br/>
 
 <h3>Reach Me:</h3>
-<a href="https://www.linkedin.com/in/soykankamal/" target="_top"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedIn" width="40" height="40"/> </a>
+<a href="https://www.linkedin.com/in/orhun-özkaya-a2b61918a/" target="_top"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedIn" width="40" height="40"/> </a>
 <a href="https://vitaminsizdev.itch.io/" target="_blank"> <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/itch_io.svg" alt="linkedIn" width="40" height="40"/> </a><br/> 
 
 <h3>Ask Me Anything Related To Game Development & Programming :</h3>
